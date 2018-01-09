@@ -1,5 +1,20 @@
 # project_scheme
-a scheme for defauilt data analysis repo
+
+## English description
+A scheme for defauilt data analysis repo.   
+
+Primary folders and files:   
+
+* `plots`         -- a folder for saving plots (contents included in .gitignore)
+* `data`          -- a folder for data   
+* `data/raw`                  -- a folder for raw data, contents included in .gitignore
+* `data/CodeBook.md`          -- code book for data, to view on site   
+* `data/CodeBook_to_word.Rmd` -- code book for data, to knit a doc file   
+* `reports`       -- a folder for saving reports    
+* `ScriptBook.md` -- instructions with steps of data analysis    
+
+## Описание на русском   
+Шаблон репозитория под анализ данных.   
 
 Основные файлы и папки:   
 
